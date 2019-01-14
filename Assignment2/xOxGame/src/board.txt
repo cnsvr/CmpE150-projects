@@ -1,4 +1,0 @@
-| O | E | E | E | 
-| E | E | E | E | 
-| E | X | E | E |
-| E | O | E | X |
