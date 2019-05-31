@@ -1,1 +1,1 @@
-# Boun_Cmpe150_Fall2018_Project
+# CmpE150 - Introduction to Computing
